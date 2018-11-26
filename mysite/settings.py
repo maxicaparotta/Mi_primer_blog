@@ -25,9 +25,9 @@ SECRET_KEY = '2w8#8)49=x%z=14gr=8wnhrs8!ksyn-*w9ed^_3!smhac_%4t3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'maxi.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'maxicaparotta.pythonanywhere.com']
 
-
+<
 # Application definition
 
 INSTALLED_APPS = [
